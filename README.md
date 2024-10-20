@@ -13,8 +13,13 @@ The project involves the implementation of a high-performance Video Test Pattern
 
 ## Components:
 1. ZYNQ Processing System: Core of the system, managing the overall control and processing.
+
 2. Processing System Reset: Ensures proper initialization and synchronization of the system components.
+
 3. AXI Interconnect: Facilitates communication between the ZYNQ Processing System and peripherals.
+
 4. HDMI Output: Enables the system to send video signals to a display.
+
 5. Video Timing Controller: Ensures synchronization of video frames.
+
 6. AXI Stream to Video Out: Converts AXI stream data into video output compatible with HDMI.
