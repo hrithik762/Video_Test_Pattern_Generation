@@ -3,7 +3,7 @@
 The project involves the implementation of a high-performance Video Test Pattern Generator on the PYNQ-Z1 FPGA development board. The system was designed using Xilinx Vivado Design Suite and validated through a real-time display connection. 
 
 ## Key Features:
-#### 1. FPGA Platform:
+### 1. FPGA Platform:
 Designed for the PYNQ-Z1 FPGA kit.
 
 ### 2. Real-Time Display: 
