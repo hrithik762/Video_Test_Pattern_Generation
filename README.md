@@ -4,7 +4,7 @@ The project involves the implementation of a high-performance Video Test Pattern
 
 ## Key Features:
 #### 1. FPGA Platform:
-Designed for the PYNQ-Z1 FPGA kit.
+     Designed for the PYNQ-Z1 FPGA kit.
 
 2. Real-Time Display: Functionality was validated by connecting the FPGA to a display via HDMI, enabling real-time output of test patterns.
 
