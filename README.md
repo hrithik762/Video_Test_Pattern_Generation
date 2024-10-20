@@ -4,8 +4,11 @@ The project involves the implementation of a high-performance Video Test Pattern
 
 ## Key Features:
 1. FPGA Platform: Designed for the PYNQ-Z1 FPGA kit.
+
 2. Real-Time Display: Functionality was validated by connecting the FPGA to a display via HDMI, enabling real-time output of test patterns.
+
 3. Vivado Design Suite: The project was engineered on Vivado, utilizing its robust design and simulation tools for FPGA development.
+
 4. AXI Interconnect Architecture: The system leverages the ZYNQ Processing System along with several key components to enable video processing and HDMI output.
 
 ## Components:
